@@ -1,6 +1,6 @@
 # utahiro's HP
 
-HP >>> "https://utahiro1105.github.io/website/"
+HP >>> "https://utahiro1105.github.io/website/utahiroHP"
 
 GitHub >>> "https://github.com/utahiro1105"
 
